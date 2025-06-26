@@ -23,7 +23,7 @@ Others: Difflib for text similarity checking
 
 📦 Setup Instructions Clone the repository:
 
-bash Copy Edit git clone https://github.com/jaseem05/speaktutor.git
+bash Copy Edit git clone https://github.com/muhammed-ziyad-777/speaktutor.git
 
 cd speaktutor Install Python dependencies:
 
