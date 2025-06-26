@@ -1,4 +1,4 @@
-Speak-Tutor
+
 SpeakTutor 🎙️ SpeakTutor is a web-based app that helps users practice and improve their English pronunciation. It records your voice, compares it with a given sentence, gives a pronunciation score, and provides spoken feedback!
 
 🚀 Features 🎤 Record your speech directly from the browser
@@ -49,6 +49,6 @@ Build mobile-friendly app
 
 Use advanced AI models for pronunciation scoring
 
-🧑‍💻 Author Mohammed Jaseem
+🧑‍💻 Author Mohammed Ziyad KV
 
 📄 License This project is licensed under the MIT License.
